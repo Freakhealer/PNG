@@ -1,0 +1,13 @@
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\bin\Release\netcoreapp3.1\+int Procedural Generator.exe
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\bin\Release\netcoreapp3.1\+int Procedural Generator.deps.json
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\bin\Release\netcoreapp3.1\+int Procedural Generator.runtimeconfig.json
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\bin\Release\netcoreapp3.1\+int Procedural Generator.runtimeconfig.dev.json
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\bin\Release\netcoreapp3.1\+int Procedural Generator.dll
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\bin\Release\netcoreapp3.1\+int Procedural Generator.pdb
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\obj\Release\netcoreapp3.1\+int Procedural Generator.AssemblyInfoInputs.cache
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\obj\Release\netcoreapp3.1\+int Procedural Generator.AssemblyInfo.cs
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\obj\Release\netcoreapp3.1\+int Procedural Generator.csproj.CoreCompileInputs.cache
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\obj\Release\netcoreapp3.1\+int Procedural Generator.dll
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\obj\Release\netcoreapp3.1\+int Procedural Generator.pdb
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\obj\Release\netcoreapp3.1\+int Procedural Generator.genruntimeconfig.cache
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\obj\Release\netcoreapp3.1\+int Procedural Generator.csprojAssemblyReference.cache

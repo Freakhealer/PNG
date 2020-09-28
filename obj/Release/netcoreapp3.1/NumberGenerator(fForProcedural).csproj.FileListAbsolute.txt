@@ -1,0 +1,13 @@
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\bin\Release\netcoreapp3.1\NumberGenerator(fForProcedural).exe
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\bin\Release\netcoreapp3.1\NumberGenerator(fForProcedural).deps.json
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\bin\Release\netcoreapp3.1\NumberGenerator(fForProcedural).runtimeconfig.json
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\bin\Release\netcoreapp3.1\NumberGenerator(fForProcedural).runtimeconfig.dev.json
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\bin\Release\netcoreapp3.1\NumberGenerator(fForProcedural).dll
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\bin\Release\netcoreapp3.1\NumberGenerator(fForProcedural).pdb
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\obj\Release\netcoreapp3.1\NumberGenerator(fForProcedural).AssemblyInfoInputs.cache
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\obj\Release\netcoreapp3.1\NumberGenerator(fForProcedural).AssemblyInfo.cs
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\obj\Release\netcoreapp3.1\NumberGenerator(fForProcedural).csproj.CoreCompileInputs.cache
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\obj\Release\netcoreapp3.1\NumberGenerator(fForProcedural).dll
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\obj\Release\netcoreapp3.1\NumberGenerator(fForProcedural).pdb
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\obj\Release\netcoreapp3.1\NumberGenerator(fForProcedural).genruntimeconfig.cache
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\obj\Release\netcoreapp3.1\NumberGenerator(fForProcedural).csprojAssemblyReference.cache

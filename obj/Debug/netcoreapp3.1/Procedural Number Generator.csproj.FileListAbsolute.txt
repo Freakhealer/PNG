@@ -1,0 +1,13 @@
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\bin\Debug\netcoreapp3.1\Procedural Number Generator.exe
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\bin\Debug\netcoreapp3.1\Procedural Number Generator.deps.json
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\bin\Debug\netcoreapp3.1\Procedural Number Generator.runtimeconfig.json
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\bin\Debug\netcoreapp3.1\Procedural Number Generator.runtimeconfig.dev.json
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\bin\Debug\netcoreapp3.1\Procedural Number Generator.dll
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\bin\Debug\netcoreapp3.1\Procedural Number Generator.pdb
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\obj\Debug\netcoreapp3.1\Procedural Number Generator.AssemblyInfoInputs.cache
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\obj\Debug\netcoreapp3.1\Procedural Number Generator.AssemblyInfo.cs
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\obj\Debug\netcoreapp3.1\Procedural Number Generator.csproj.CoreCompileInputs.cache
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\obj\Debug\netcoreapp3.1\Procedural Number Generator.dll
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\obj\Debug\netcoreapp3.1\Procedural Number Generator.pdb
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\obj\Debug\netcoreapp3.1\Procedural Number Generator.genruntimeconfig.cache
+C:\Users\gonca\source\repos\NumberGenerator(fForProcedural)\NumberGenerator(fForProcedural)\obj\Debug\netcoreapp3.1\Procedural Number Generator.csprojAssemblyReference.cache
